@@ -1,12 +1,16 @@
 # Python Projects
 
-A collection of Python projects completed while learning programming and cybersecurity.
+A collection of Python projects completed while learning programming and problem-solving skills
 
 ## Projects
-- Password Generator
 - Calculator
 - Number Guessing Game
-- Password Strength Checker
+- Rock Paper Scissors
+- Quiz Game
+- To-Do List
+- Temperature Converter
+- Currency Converter
+- File Organiser
 
 ## Skills Developed
 - Variables
@@ -14,3 +18,5 @@ A collection of Python projects completed while learning programming and cyberse
 - Functions
 - Input Validation
 - Problem Solving
+- File Handling
+- Error Handling
