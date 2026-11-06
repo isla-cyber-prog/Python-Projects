@@ -10,4 +10,11 @@ choice = input("Choose an option: ")
 
 if choice == "5":
     num = float(input("Enter number: "))
-    print(math.sqrt(num))
+
+    if num >= 0:
+
+print(math.sqrt(num))
+else: 
+    print("cannot calculate the square root of a negative number.")
+    print(f"Square root =
+    {math.sqrt(num)}")
